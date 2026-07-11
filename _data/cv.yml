@@ -2,96 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mohammad Mahdi Gheidi
     - name: Languages
-      value: English, German
+      value: Persian (native), English (C1), German (B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc, Computer Science (AI Specialization)
+      institution: University of Freiburg, Freiburg, Germany
+      year: 2024 - present
+    - title: BSc, Computer Engineering
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2019 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 18.35/20"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Scientific Research Assistant
+      institution: IMBIT Freiburg, BrainLinks-BrainTools, Freiburg, Germany
+      year: 2025 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researching the loss of plasticity in neural network architectures, under supervision of Prof. Dr. Joschka Bödecker and Dr. Shengchao Yan.
+    - title: Research Assistant
+      institution: NLP & DH Lab, Sharif University of Technology, Tehran, Iran
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Contributed to and optimized the Farsi OCR project using NLP and computer vision modules, under supervision of Dr. Ehsaneddin Asgari.
+    - title: Research Assistant (remote)
+      institution: Qatar Computing Research Institute (QCRI), Doha, Qatar
+      year: 2022
       description:
+        - Worked on a novel approach to sequence the human genome using deep learning and transformer models, under supervision of Dr. Amin Sadeghi and Dr. Mahdi Safarnejad.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Work Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: AI Ambassador / Senior Technical Consultant
+      institution: Serity
+      year: 2024 - present
+      description:
+        - Created AI-driven workflows based on ServiceNow principles, delivering consultancy and custom implementations for customers.
+    - title: Software Engineer
+      institution: Divar
+      year: 2023 - 2024
+      description:
+        - Search and discovery team, improving the main page and shipping features for Iran's leading classified ads platform.
+    - title: Software Engineer
+      institution: Cafe Bazaar
+      year: 2022 - 2023
+      description:
+        - Worked on a new e-commerce platform mainly using Python & Django.
+        - Worked extensively with Unix-based systems, git, docker, and software design architectures.
+    - title: MLOps Engineer / Software Engineer
+      institution: Mofid Securities
+      year: 2021 - 2022
+      description:
+        - Automated the ML pipeline for the AI team using frameworks including MLflow and DVC.
+        - Automated scripts, benchmarks, and integration tests for server-side products.
+
+- title: Teaching Assistant
+  type: time_table
+  contents:
+    - title: Artificial Intelligence
+      institution: Sharif University of Technology — Dr. MohammadHossein Rohban
+      year: Fall 2022, Spring 2023
+    - title: Design of Algorithms
+      institution: Sharif University of Technology — Dr. MohammadAli Abam
+      year: Spring 2022, Spring 2023
+    - title: Advanced Programming
+      institution: Sharif University of Technology — Dr. MohammadAmin Fazli
+      year: Spring 2023
+    - title: Data Structures and Algorithms (Head TA)
+      institution: Sharif University of Technology — Dr. Mahdi SafarNejad
+      year: Fall 2021, Spring 2022
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - "National University Entrance Exam (Konkoor), Mathematics and Physics major — ranked 29th of 200,000+ participants (top 0.01%)"
+        - "National University Entrance Exam (Konkoor), English Language major — ranked 25th of 100,000+ participants (top 0.02%)"
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Neuroscience
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - How the brain performs tasks such as language acquisition, and how it relates to plasticity in neural networks, the critical period hypothesis, and primacy bias.
+    - title: Reinforcement Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Learning and working toward AGI through RL-based methods, and RL implementations of human-brain-like actions on real-life tasks.
+    - title: NLP
+      items:
+        - NLP and deep learning, intersecting with social, medical, and human-related subjects.
 
-- title: Other Interests
-  type: list
+- title: Skills
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Advanced
+      items:
+        - Python, Django, Git, SQL, NumPy, Scikit-learn
+    - title: Intermediate
+      items:
+        - GoLang, Elasticsearch, HTML, CSS, PyTorch, TensorFlow

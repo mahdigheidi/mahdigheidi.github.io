@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: Teaching assistantships at Sharif University of Technology.
+nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I served as a teaching assistant for several undergraduate courses at Sharif University of Technology:
 
-Organize your courses by years, topics, or universities, however you like!
+- **Artificial Intelligence** — Dr. MohammadHossein Rohban (Spring 2023, Fall 2022)
+- **Design of Algorithms** — Dr. MohammadAli Abam (Spring 2023, Spring 2022)
+- **Advanced Programming** — Dr. MohammadAmin Fazli (Spring 2023)
+- **Data Structures and Algorithms** — Head TA under Dr. Mahdi SafarNejad (Spring 2022, Fall 2021)

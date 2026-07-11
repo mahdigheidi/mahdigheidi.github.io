@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSc student in Computer Science (AI), University of Freiburg
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Freiburg, Germany</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an MSc student in Computer Science, specializing in AI, at the [University of Freiburg](https://uni-freiburg.de), and a Scientific Research Assistant at [IMBIT / BrainLinks-BrainTools](https://www.imbit.uni-freiburg.de/), where I work with Prof. Dr. Joschka Bödecker and Dr. Shengchao Yan on the loss of plasticity in neural network architectures.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm broadly interested in computational neuroscience, reinforcement learning, and NLP — particularly in understanding how the brain acquires language, how that process relates to plasticity and the critical period hypothesis in neural networks, and how RL-based methods might get us closer to human-like, real-life decision making.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before moving to Freiburg, I completed my BSc in Computer Engineering at [Sharif University of Technology](https://sharif.edu), where I was a research assistant in the NLP & DH Lab working on Farsi OCR, and, earlier, a remote research assistant at the [Qatar Computing Research Institute (QCRI)](https://www.hbku.edu.qa/en/qcri), working on transformer-based approaches to human genome sequencing.
+
+On the industry side, I've worked as a software engineer at [Divar](https://divar.ir) and [Cafe Bazaar](https://cafebazaar.ir), and I currently consult as an AI Ambassador / Senior Technical Consultant at [Serity](https://serity.io), building AI-driven workflows on ServiceNow.
+
+Feel free to reach out via [email](mailto:gheidimahdi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/).

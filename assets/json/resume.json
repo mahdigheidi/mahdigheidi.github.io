@@ -1,200 +1,224 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mohammad Mahdi Gheidi",
+    "label": "MSc Student in AI, University of Freiburg",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gheidimahdi@gmail.com",
+    "phone": "",
+    "url": "https://mahdigheidi.github.io",
+    "summary": "MSc student in Computer Science (AI specialization) at the University of Freiburg, researching neural network plasticity, reinforcement learning, and NLP. Previously a software engineer at Divar and Cafe Bazaar.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Freiburg",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "mahdi-gheidi",
+        "url": "https://www.linkedin.com/in/mahdi-gheidi/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mahdigheidi",
+        "url": "https://github.com/mahdigheidi"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Serity",
+      "position": "AI Ambassador / Senior Technical Consultant",
+      "url": "",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Created AI-driven workflows based on ServiceNow principles, delivering consultancy and custom implementations for the company's customers.",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "IMBIT Freiburg, BrainLinks-BrainTools",
+      "position": "Scientific Research Assistant",
+      "url": "https://www.imbit.uni-freiburg.de/",
+      "startDate": "2025-10-01",
+      "endDate": "",
+      "summary": "Researching the loss of plasticity in neural network architectures, under supervision of Prof. Dr. Joschka Bödecker and Dr. Shengchao Yan.",
+      "highlights": []
+    },
+    {
+      "name": "Divar",
+      "position": "Software Engineer",
+      "url": "https://divar.ir",
+      "startDate": "2023-05-01",
+      "endDate": "2024-10-01",
+      "summary": "Search and discovery team, improving the main page and shipping features for Iran's leading classified ads platform.",
+      "highlights": []
+    },
+    {
+      "name": "NLP & DH Lab, Sharif University of Technology",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-07-01",
+      "summary": "Contributed to and optimized the Farsi OCR project using NLP and computer vision modules, under supervision of Dr. Ehsaneddin Asgari.",
+      "highlights": []
+    },
+    {
+      "name": "Cafe Bazaar",
+      "position": "Software Engineer",
+      "url": "https://cafebazaar.ir",
+      "startDate": "2022-08-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked on a new e-commerce platform using mainly Python & Django. Worked extensively with Unix-based systems, git, docker, and software design architectures.",
+      "highlights": []
+    },
+    {
+      "name": "Qatar Computing Research Institute (QCRI)",
+      "position": "Research Assistant (Remote)",
+      "url": "https://www.hbku.edu.qa/en/qcri",
+      "startDate": "2022-05-01",
+      "endDate": "2022-10-01",
+      "summary": "Under supervision of Dr. Amin Sadeghi and Dr. Mahdi Safarnejad, worked on a novel approach to sequence the human genome using deep learning and transformer models.",
+      "highlights": []
+    },
+    {
+      "name": "Mofid Securities",
+      "position": "MLOps Engineer / Software Engineer",
+      "url": "",
+      "startDate": "2021-07-01",
+      "endDate": "2022-02-01",
+      "summary": "Automated the ML pipeline for the AI team using frameworks including MLflow and DVC. Automated scripts, benchmarks, and integration tests for server-side products.",
+      "highlights": []
+    },
+    {
+      "name": "Sharif University of Technology — Artificial Intelligence",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01",
+      "summary": "Course by Dr. MohammadHossein Rohban (Fall 2022, Spring 2023).",
+      "highlights": []
+    },
+    {
+      "name": "Sharif University of Technology — Design of Algorithms",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "2023-06-01",
+      "summary": "Course by Dr. MohammadAli Abam (Spring 2022, Spring 2023).",
+      "highlights": []
+    },
+    {
+      "name": "Sharif University of Technology — Advanced Programming",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-01",
+      "summary": "Course by Dr. MohammadAmin Fazli (Spring 2023).",
+      "highlights": []
+    },
+    {
+      "name": "Sharif University of Technology — Data Structures and Algorithms",
+      "position": "Head Teaching Assistant",
+      "url": "",
+      "startDate": "2021-10-01",
+      "endDate": "2022-06-01",
+      "summary": "Course by Dr. Mahdi SafarNejad (Fall 2021, Spring 2022).",
+      "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Freiburg",
+      "location": "Freiburg, Germany",
+      "url": "https://uni-freiburg.de",
+      "area": "Computer Science, AI Specialization",
+      "studyType": "MSc",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Reinforcement Learning", "Machine Learning", "Deep Learning"]
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "url": "https://sharif.edu",
+      "area": "Computer Engineering",
+      "studyType": "BSc",
+      "startDate": "2019-09-01",
+      "endDate": "2024-06-01",
+      "score": "18.35/20",
+      "courses": ["Natural Language Processing", "Signals & Systems", "Artificial Intelligence", "Linear Algebra", "Data Structures and Algorithms"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ranked 29th of 200,000+ participants (Top 0.01%), Mathematics and Physics major",
+      "date": "2019-08-01",
+      "awarder": "National University Entrance Exam (Konkoor)",
+      "url": "",
+      "summary": "Qualified to study Computer Engineering at Sharif University of Technology."
+    },
+    {
+      "title": "Ranked 25th of 100,000+ participants (Top 0.02%), English Language major",
+      "date": "2019-08-01",
+      "awarder": "National University Entrance Exam (Konkoor)",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Advanced",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "Django", "Git", "SQL", "NumPy", "Scikit-learn"]
+    },
+    {
+      "name": "Intermediate",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["GoLang", "Elasticsearch", "HTML", "CSS", "PyTorch", "TensorFlow"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Persian/Farsi",
+      "fluency": "Native proficiency",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full professional proficiency (CEFR C1)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Professional working proficiency (CEFR B2)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Computational Neuroscience",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Language acquisition", "Neural plasticity", "Critical period hypothesis", "Primacy bias"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Reinforcement Learning",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["AGI", "Human-like decision making"]
+    },
+    {
+      "name": "NLP",
+      "icon": "fa-solid fa-comments",
+      "keywords": ["Deep learning", "Social/medical/human-related applications"]
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": []
 }

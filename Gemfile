@@ -25,4 +25,6 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'observer' # required by citeproc-ruby (via jekyll-scholar) on Ruby 3.4+
+    gem 'ostruct' # required by jekyll-twitter-plugin on Ruby 3.5+
 end
