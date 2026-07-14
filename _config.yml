@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Mohammad Mahdi
+first_name: Mahdi
 middle_name:
 last_name: Gheidi
 email: gheidimahdi@gmail.com
@@ -294,7 +294,7 @@ display_categories: [] # these categories will be displayed on the front page of
 
 scholar:
   last_name: [Gheidi]
-  first_name: [Mohammad Mahdi, M. M.]
+  first_name: [Mahdi, M. M.]
 
   style: apa
   locale: en
